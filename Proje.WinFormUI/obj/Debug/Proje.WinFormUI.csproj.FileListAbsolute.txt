@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Console\Proje.NtierEAV\Proje.WinFormUI\bin\Debug\Proje.WinFormUI.exe.config
+C:\Users\Lenovo\Desktop\Console\Proje.NtierEAV\Proje.WinFormUI\bin\Debug\Proje.WinFormUI.exe
+C:\Users\Lenovo\Desktop\Console\Proje.NtierEAV\Proje.WinFormUI\bin\Debug\Proje.WinFormUI.pdb
+C:\Users\Lenovo\Desktop\Console\Proje.NtierEAV\Proje.WinFormUI\obj\Debug\Proje.WinFormUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Console\Proje.NtierEAV\Proje.WinFormUI\obj\Debug\Proje.WinFormUI.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Console\Proje.NtierEAV\Proje.WinFormUI\obj\Debug\Proje.WinFormUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Console\Proje.NtierEAV\Proje.WinFormUI\obj\Debug\Proje.WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Console\Proje.NtierEAV\Proje.WinFormUI\obj\Debug\Proje.WinFormUI.exe
+C:\Users\Lenovo\Desktop\Console\Proje.NtierEAV\Proje.WinFormUI\obj\Debug\Proje.WinFormUI.pdb
