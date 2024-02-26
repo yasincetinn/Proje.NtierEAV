@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Proje.CONF.Options
 {
-    internal class CategoryConfiguration
+    public class CategoryConfiguration:BaseConfiguration<Category>
     {
+        public CategoryConfiguration()
+        {
+
+        }
     }
 }
