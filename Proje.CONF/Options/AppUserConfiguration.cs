@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proje.CONF.Options
 {
-    public class AppUserConfiguration: BaseConfiguration<AppUser>
+    public class AppUserConfiguration: BaseConfiguration
     {
         public AppUserConfiguration()
         {

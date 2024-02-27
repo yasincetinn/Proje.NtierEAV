@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proje.CONF.Options
 {
-    public class EntityAttributeConfiguration:BaseConfiguration<EntityAttribute>
+    public class EntityAttributeConfiguration:BaseConfiguration
     {
         public EntityAttributeConfiguration()
         {

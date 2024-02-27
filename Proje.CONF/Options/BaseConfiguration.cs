@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Proje.CONF.Options
 {
-    public abstract class BaseConfiguration<T>:EntityTypeConfiguration<T> where T: baseEntity
+    public abstract class BaseConfiguration<T>:EntityTypeConfiguration<T> where T: 
     {
         public abstract BaseConfiguration()
         {

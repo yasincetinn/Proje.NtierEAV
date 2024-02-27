@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proje.CONF.Options
 {
-    public class OrderConfiguration: BaseConfiguration<Order>
+    public class OrderConfiguration: BaseConfiguration
     {
         public OrderConfiguration()
         {

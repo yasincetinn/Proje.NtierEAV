@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proje.CONF.Options
 {
-    public class OrderDetailConfiguration:BaseConfiguration<OrderDetail>
+    public class OrderDetailConfiguration:BaseConfiguration
     {
         public OrderDetailConfiguration()
         {
